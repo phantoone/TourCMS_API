@@ -1,0 +1,17 @@
+{
+    "name": "aniaz/ejercicio-php",
+    "autoload": {
+        "psr-4": {
+            "Aniaz\\EjercicioPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phantoone",
+            "email": "aniazulita@gmail.com"
+        }
+    ],
+    "require": {
+        "tourcms/tourcms-php": "4.0"
+    }
+}
